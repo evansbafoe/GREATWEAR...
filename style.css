@@ -119,16 +119,19 @@ nav ul li a {
     cursor: pointer;
     border-radius: 5px;
 }
+
 .product-item button:hover,
 .product-item button:focus {
     color: blue;
     text-decoration: blue;
     cursor: pointer;
 }
+
 .product-item button.add-to-favorite {
     background-color: green;
     margin-top: 10px;
 }
+
 .product-item button.add-to-favorite:hover,
 .product-item button.add-to-favorite:focus {
     color: blue;
